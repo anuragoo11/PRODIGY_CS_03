@@ -1,4 +1,4 @@
-# PRODIGY_CS_03
+
 # 🔐 Password Strength Checker
 
 This tool assesses the strength of a password based on criteria such as length, presence of uppercase and lowercase letters, numbers, and special characters. The development was done using the PyCharm IDE.
